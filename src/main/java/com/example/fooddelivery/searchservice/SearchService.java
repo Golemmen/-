@@ -15,3 +15,4 @@ public class SearchService {
         return "Search results for dishes matching: " + query;
     }
 }
+

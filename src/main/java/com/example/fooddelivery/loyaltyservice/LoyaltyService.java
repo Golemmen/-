@@ -17,3 +17,5 @@ public class LoyaltyService {
         return points; // Return the total points (simplified logic)
     }
 }
+
+

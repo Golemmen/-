@@ -22,3 +22,9 @@ public class LoyaltyController {
         return loyaltyService.getPoints(userId);
     }
 }
+
+
+
+
+
+

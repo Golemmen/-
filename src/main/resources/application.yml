@@ -4,7 +4,7 @@ server:
 spring:
   data:
     mongodb:
-      uri: mongodb://localhost:27017/fooddelivery
+      uri: mongodb://localhost:27017/
   jpa:
     hibernate:
       ddl-auto: update
@@ -13,3 +13,4 @@ spring:
       group-id: food-delivery-group
     producer:
       bootstrap-servers: localhost:9092
+

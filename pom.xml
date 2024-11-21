@@ -35,6 +35,8 @@
             <artifactId>spring-boot-starter</artifactId>
         </dependency>
 
+
+
         <!-- Зависимость для Spring Web (для работы с REST API) -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
